@@ -2,6 +2,8 @@ this is a thought experiment asking "what if my coding harness built in shell ru
 
 vibe coded as a pi plugin. i would love to see other agents support running my shell, with my aliases, tab completions, cmd-r history and all that.
 
+[Watch the Pi Rex Terminal demo](docs/assets/pi-rex-terminal-demo.mp4)
+
 slop readme follows.
 
 ---
